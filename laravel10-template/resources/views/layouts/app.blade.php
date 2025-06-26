@@ -16,7 +16,7 @@
     {{-- Header (opzionale) --}}
     <header class="bg-light p-3 mb-4 border-bottom">
         <div class="container">
-            <h1 class="h4 m-0">Laravel Template</h1>
+            <h1 class="h4 m-0">CSV Import</h1>
         </div>
     </header>
 

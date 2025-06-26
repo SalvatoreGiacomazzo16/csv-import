@@ -53,7 +53,5 @@ $path = resource_path('csv/product.csv');
 
         fclose($file);
 
-        echo "Import success.\n";
-
     }
 }
